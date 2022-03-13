@@ -24,7 +24,7 @@ class ItemList extends StatelessWidget {
                 String description = noteInfo['description'];
                 return Ink(
                   decoration: BoxDecoration(
-                    color: Colors.blueGrey,
+                    color: Color(0xff4da089),
                     borderRadius: BorderRadius.circular(8.0),
                   ),
                   child: ListTile(

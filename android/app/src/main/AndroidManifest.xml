@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.crud_firestore_app">
    <application
-        android:label="Note Book"
+        android:label="Node Book"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher.png">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
             android:exported="true"
